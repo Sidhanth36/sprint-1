@@ -1,0 +1,11 @@
+In Sprint 1, the main aim of the code was to create the *basic foundation* of the NHS Patient-Centric Hospital System. At this stage, 
+the team focused on the three most important features needed for the first working prototype: secure patient login, appointment booking, and viewing medical records. 
+These stories were selected because they directly matched the main requirements of the project and gave the team a realistic starting point. 
+
+From the coding side, Sprint 1 was mainly built around the LoginForm, DashboardForm, BookAppointmentForm, and MedicalRecordsForm.
+The LoginForm was used as the entry point of the system so that a patient could sign in before accessing any other feature. After successful login, the patient was taken to the DashboardForm,
+which acted as the main navigation area of the prototype. From there, the user could move to the appointment booking page or the medical records page.
+
+The BookAppointmentForm in Sprint 1 represented the first version of the online booking feature.
+It allowed the patient to choose a doctor, select a date, and choose an available time slot. The MedicalRecordsForm gave the patient access to their own health information in a simple and clear layout. At this stage, the system was still working as a basic prototype, 
+using simple in-memory data rather than a full database. The purpose of Sprint 1 was therefore to prove that the main patient journey could work at a basic level before adding more complexity in later sprints.
