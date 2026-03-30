@@ -1,0 +1,31 @@
+ Sprint 1 User Stories
+
+Sprint 1 focused on building the foundation of the NHS Patient-Centric Hospital System. At this stage, the team selected three high-priority user stories that represent the most important features needed for the first working prototype. These stories were chosen because they directly support the core aim of the system, which is to allow patients to access healthcare services in a secure, simple, and digital way.
+
+# US-01 – Secure Patient Login
+
+As a patient, I want to log in securely to the system so that I can safely access my personal healthcare information.
+
+This user story was selected because security is one of the most important requirements of the project. Before a patient can use any feature of the hospital system, the system must first confirm their identity and protect their personal information. The login feature acts as the entry point to the patient portal and ensures that only authorised users can access private healthcare data.
+
+In Sprint 1, this story focused on creating the basic login interface and authentication flow for the prototype. The intention was to allow a patient to enter valid credentials and successfully access the dashboard, while also preventing unauthorised access if the login details are incorrect. This story provides the foundation for all other patient-facing functions in later sprints.
+
+# US-02 – Book an Appointment
+
+As a patient, I want to book an appointment online so that I can choose a suitable consultation slot without needing to call reception.
+
+This user story was selected because appointment booking is one of the main features required by the project brief and is central to the idea of a patient-centred hospital system. A digital appointment feature makes the system more convenient for patients and reduces the need for manual booking methods.
+
+In Sprint 1, this story focused on designing the first version of the appointment-booking journey. The prototype allows a patient to select a doctor, choose a date, and pick a time slot for an appointment. The aim of this feature was to demonstrate the early functionality of online booking and show how the system could support a smoother and more efficient healthcare experience.
+
+# US-03 – View Personal Medical Records
+
+As a patient, I want to view my own medical records so that I can stay informed about my diagnosis, treatment, and prescriptions.
+
+This user story was selected because the project requires a secure patient portal where users can access their personal medical information. Giving patients access to their own records supports transparency, improves awareness of ongoing treatment, and makes the system more useful beyond appointment management alone.
+
+In Sprint 1, this story focused on creating a prototype page where a logged-in patient could view their own medical records in a clear and organised format. The main purpose of this feature was to demonstrate secure access to personal healthcare data and show that medical information would only be available to the correct user after authentication.
+
+# Sprint 1 Summary
+
+Together, these three user stories created the first functional foundation of the NHS Patient-Centric Hospital System. Secure login established protected access to the portal, appointment booking introduced the first key service interaction, and medical record viewing demonstrated access to personal healthcare information. These stories were selected because they align closely with the main requirements of the project and provide a realistic and well-focused starting point for future development in Sprint 2 and Sprint 3.
